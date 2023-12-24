@@ -40,7 +40,7 @@ System performance monitoring is crucial for maintaining operational efficiency 
 ---
 ## Setup Instructions
 
-1. Clone the repository: `git clone https://github.com/aymane-maghouti/Real-time-Computer-Performance-Dashboard.git`
+1. Clone the repository: `git clone https://github.com/TejodhayBonam/Real-time-Computer-Performance-Monitoring-Dashboard.git`
 2. Install required dependencies by following the instructions in the `requirements.txt` file after navigating to the project folder:
 `pip install -r requirements.txt`
 3. Set up the MySQL and SQL Server databases according to the provided schema.(Execute the `database_installation.sql` script on both the MySQL and SQL Server databases.)
